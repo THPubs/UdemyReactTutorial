@@ -10,3 +10,4 @@ Following Udemy's Build Web Apps with React JS and Flux Course
 
       npm install --save gulp browserify reactify vinyl-source-stream watchify gulp-util
       npm install -g gulp-cli
+      npm install --save react@0.14.5
